@@ -8,7 +8,7 @@ mainClassName = 'hello.HelloWorld'
 repositories { 
     mavenCentral() 
 }
-// end::repositories[]
+// end::repositories[]  
 
 // tag::jar[]
 jar {
